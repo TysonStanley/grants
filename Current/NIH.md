@@ -3,6 +3,23 @@
 ## R01
 
 
+## R21
+
+### Methodology and Measurement in the  Behavioral and Social Sciences (R21)
+[https://grants.nih.gov/grants/guide/pa-files/PAR-16-261.html](https://grants.nih.gov/grants/guide/pa-files/PAR-16-261.html)
+
+Information:
+
+* PAR-16-261
+* This grant, through the NIH (especially that of NIAAA), is also an R01.
+
+**The grant's purpose:**
+
+The purpose of this Funding Opportunity Announcement (FOA) is to invite qualified researchers to submit grant applications aimed at improving and developing methodology in the behavioral and social sciences through innovations in research design, measurement, data collection and data analysis techniques.
+
+The NIAAA says: 
+
+Develop efficient methods to integrate and harmonize data collected through various methods/tools from multiple resources. **Analytical approaches for real-time assessment of alcohol consumption and related behaviors, such as through the use of ecological momentary assessment (EMA), mobile, or sensor technologies. Develop methods/approaches for examining gene-environment interplay in alcohol consumption and related behaviors.** Develop system dynamics modeling, agent-based modeling, network analysis, and other simulation techniques to identify drinking patterns, drinking behavior change over time that can help us to form efficient prevention approaches for each development stage.
 
 
 ## R03
